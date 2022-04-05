@@ -33,3 +33,7 @@ Around 65% of the users are male, and 25 percent of the users are female.
 ![image](https://user-images.githubusercontent.com/95439555/161802805-b06d5fd7-ea8f-4fb9-9093-8eadcd1c41cd.png)
 
 Around 80 % of the people are subcribers.
+
+## Summary
+
+Since most users are men, they use these bikes way more, and most of them are subscribers, so it makes sense for the bike users to be primarily subscribers. They use these bikes from 6 to 9 am and from 4 to 7 pm on weekdays, while they use these bikes throughout the day until 7 pm on weekends. We could also present a visualization for the number of times each bike was used and the total duration each bike was utilized.
