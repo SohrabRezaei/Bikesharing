@@ -6,7 +6,7 @@ Several visualizations have been requested from us to show whether this business
 
 ## Results
 
-[![image.png](https://i.postimg.cc/g0Kz8Nsp/image.png)](https://postimg.cc/TypvXjBN)
+![image](https://user-images.githubusercontent.com/95439555/161802306-a7b31a7a-099b-444c-864c-9483fa10d346.png)
 
 5 minutes is the highest time of usage for these bikes, and most of the users spend less than an hour on these bikes.
 
