@@ -38,4 +38,14 @@ Around 80 % of the people are subcribers.
 
 Since most users are men, they use these bikes way more, and most of them are subscribers, so it makes sense for the bike users to be primarily subscribers. They use these bikes from 6 to 9 am and from 4 to 7 pm on weekdays, while they use these bikes throughout the day until 7 pm on weekends. We could also present a visualization for the number of times each bike was used and the total duration each bike was utilized.
 
+
+
+[Link to worksheet 1](https://public.tableau.com/app/profile/sohrab.rezaei/viz/assignment_16490935165910/CheckoutTimesforUsers?publish=yes)
+[Link to worksheet 2](https://public.tableau.com/app/profile/sohrab.rezaei/viz/assignment_16490935165910/CheckoutTimesbyGender?publish=yes)
+[Link to worksheet 3](https://public.tableau.com/app/profile/sohrab.rezaei/viz/assignment_16490935165910/TripsbyWeekdayperHour?publish=yes)
+[Link to worksheet 4](https://public.tableau.com/app/profile/sohrab.rezaei/viz/assignment_16490935165910/TripsbyGenderWeekdayperHour?publish=yes)
+[Link to worksheet 5](https://public.tableau.com/app/profile/sohrab.rezaei/viz/assignment_16490935165910/UserTripsbyGenderbyWeekday?publish=yes)
+[Link to worksheet 6](https://public.tableau.com/app/profile/sohrab.rezaei/viz/assignment_16490935165910/GenderBreakdown?publish=yes)
+[Link to worksheeet 7](https://public.tableau.com/app/profile/sohrab.rezaei/viz/assignment_16490935165910/Customers?publish=yes)
 [Link to story](https://public.tableau.com/app/profile/sohrab.rezaei/viz/assignment_16490935165910/Bikesharingstory)
+
